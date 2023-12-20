@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/roomoffinal2/static/css/main.f12a86be.css",
+    "main.js": "/roomoffinal2/static/js/main.d31f7245.js",
+    "static/media/sample.wav": "/roomoffinal2/static/media/sample.1024854e40ada450e045.wav",
+    "static/media/KingSejongInstitute-Bold.ttf": "/roomoffinal2/static/media/KingSejongInstitute-Bold.4c069e57c40612f630af.ttf",
+    "static/media/SF-Pro-Display-Semibold.otf": "/roomoffinal2/static/media/SF-Pro-Display-Semibold.14bccd365ef62bd4c35d.otf",
+    "static/media/SF-Pro-Text-Bold.otf": "/roomoffinal2/static/media/SF-Pro-Text-Bold.3dbeded354b72bcd7024.otf",
+    "static/media/SF-Pro-Text-Regular.otf": "/roomoffinal2/static/media/SF-Pro-Text-Regular.c689d39717f1895e782f.otf",
+    "static/media/thumbnail.png": "/roomoffinal2/static/media/thumbnail.15b55a165331cd21edef.png",
+    "static/media/bg_image.jpg": "/roomoffinal2/static/media/bg_image.0e2dc836ca73b26a7a60.jpg",
+    "static/media/Rectangle_5.png": "/roomoffinal2/static/media/Rectangle_5.7835e724aa960721bc1f.png",
+    "static/media/Spinner.gif": "/roomoffinal2/static/media/Spinner.43cbcbecbdc49934b3af.gif",
+    "static/media/slick.svg": "/roomoffinal2/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/roomoffinal2/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/roomoffinal2/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/roomoffinal2/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/user-circle.svg": "/roomoffinal2/static/media/user-circle.23ea1233d7e2cebec0a11d8a88b2da1a.svg",
+    "index.html": "/roomoffinal2/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.f12a86be.css",
+    "static/js/main.d31f7245.js"
+  ]
+}
